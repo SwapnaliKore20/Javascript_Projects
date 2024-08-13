@@ -1,0 +1,22 @@
+body{
+    margin:0;
+    text-align: center;
+     display:flex;
+    flex-direction: column; 
+   align-items: center;
+    background-color: linen;
+    color: rgba(0, 0, 0, 0.8);
+     font-family: Arial, Helvetica, sans-serif;
+} 
+.load-more-images-btn{
+    padding:10px;
+    margin: 10px 20px ;
+    background-color: rgb(30, 14, 101);
+    color:white;
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+.load-more-images-btn:hover{
+    opacity: 0.6;
+}
